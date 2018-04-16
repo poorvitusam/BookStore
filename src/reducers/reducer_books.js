@@ -1,9 +1,9 @@
 export default function() {
 	return[
-		{title: 'Head First Java'},
-		{title: 'Javascript Good parts'},
-		{title: 'Cormen'},
-		{title: 'Head First Design Patterns'},
-		{title: 'Outliers'}
+		{title: 'Head First Java', price: '$150'},
+		{title: 'Javascript Good parts', price: '$80'},
+		{title: 'Cormen', price: '$250'},
+		{title: 'Head First Design Patterns', price: '$150'},
+		{title: 'Outliers', price: '$50'}
 	]
 }
